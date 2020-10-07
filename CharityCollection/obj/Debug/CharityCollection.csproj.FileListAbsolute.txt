@@ -1,0 +1,7 @@
+C:\Users\dylan\source\repos\CharityCollection\CharityCollection\obj\Debug\CharityCollection.csprojAssemblyReference.cache
+C:\Users\dylan\source\repos\CharityCollection\CharityCollection\obj\Debug\CharityCollection.csproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\CharityCollection\CharityCollection\bin\Debug\CharityCollection.exe.config
+C:\Users\dylan\source\repos\CharityCollection\CharityCollection\bin\Debug\CharityCollection.exe
+C:\Users\dylan\source\repos\CharityCollection\CharityCollection\bin\Debug\CharityCollection.pdb
+C:\Users\dylan\source\repos\CharityCollection\CharityCollection\obj\Debug\CharityCollection.exe
+C:\Users\dylan\source\repos\CharityCollection\CharityCollection\obj\Debug\CharityCollection.pdb
